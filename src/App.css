@@ -1,0 +1,8 @@
+body{
+  background-color: #111111;
+  color: #a0a0a0;
+}
+#root{
+  height: 100vh;
+  display: flex;
+}
